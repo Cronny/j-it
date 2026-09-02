@@ -6,10 +6,11 @@
 
 ## Tokio
 
-- teamLab (Borderless en Azabudai Hills / Planets en Toyosu)
-  - Compra online anticipada, horarios nocturnos se agotan.
-  - teamLab Borderless (Azabudai): <https://www.teamlab.art/e/borderless-azabudai/>
-  - teamLab Planets (Toyosu): <https://planets.teamlab.art/tokyo/>
+- teamLab — ✅ **elegido: Planets (Toyosu)**, ver [[Museos]]
+  - Compra online anticipada por franja horaria; los horarios nocturnos se agotan.
+  - ⚠️ Planets se recorre **descalzo y con agua hasta la rodilla**: pantalón que se enrolle, calcetines de repuesto.
+  - teamLab Planets (Toyosu): <https://www.teamlab.art/e/planets/>
+  - teamLab Borderless (Azabudai) *(descartado)*: <https://www.teamlab.art/e/tokyo/>
 - Ghibli Museum (Mitaka)
   - Boletos con cupo limitado; ventas mensuales vía Lawson o sitios autorizados.
   - Info oficial: <https://www.ghibli-museum.jp/en/>
@@ -89,8 +90,9 @@
 
 ## Checklist de boletos (Invierno 2026)
 
-- [ ] teamLab Borderless/Planets — reservar 2–3 semanas antes
-- [ ] Ghibli Museum / Ghibli Park (si se incluye) — vigilar apertura de venta mensual
+- [ ] 🚨 **Museo Nintendo (Uji)** — sorteo con 3 meses de anticipación: **registrarse en septiembre 2026**, resultados 1 oct. Ver [[Museos]]
+- [ ] **teamLab Planets** (Toyosu, Día 4) — reservar 3–4 semanas antes; ojo: descalzo y con agua
+- [ ] **Ghibli Museum** (Día 3) — venta **10 nov 2026, 10:00 JST** vía Lawson; se agota en minutos
 - [ ] Miradores (Shibuya Sky o Skytree) — opcional; noches más impresionantes en invierno
 - [ ] USJ (con Express Pass si es fin de semana) — ⚠️ Temporada alta, reservar ASAP
 - [ ] Disney (parque elegido) — ⚠️ Navidad = muy concurrido, comprar boletos pronto

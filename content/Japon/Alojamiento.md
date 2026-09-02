@@ -1,7 +1,8 @@
 # Alojamiento — Zonas, pros y tips (Invierno ❄️)
 
-> **Temporada: 12–26 diciembre 2026** (temporada alta navideña)
+> **Temporada: 12–26 diciembre 2026** (temporada alta navideña) — 14 noches.
 > Enfoque práctico para 15 días y presupuesto moderado-alto (meta ~2,700 MXN/noche total).
+> ✈️ **Llegada y salida por Narita** (ANA, ver [[Vuelos ANA]]) — condiciona la zona del hotel en Tokio.
 > ⚠️ Reservar con anticipación (sept–oct) es crucial para esta temporada.
 
 ## Tokio — Zonas recomendadas
@@ -13,7 +14,8 @@
 | Ginza/Marunouchi | Elegante, cerca de Tokyo Station y traslados Shinkansen | Precio alto; ambiente corporativo |
 | Ueno/Asakusa | Más económico, cerca de templos y museos | Traslados más largos a zonas del suroeste |
 | Ikebukuro | Precios razonables, nodo JR, compras | Menos turístico; trayectos algo largos a zonas clásicas |
-| Shinagawa | Excelente para Shinkansen, fácil al aeropuerto | Menos ambiente peatonal/turístico |
+| Shinagawa | Excelente para Shinkansen | ⚠️ Su ventaja de "fácil al aeropuerto" es para **Haneda**, no Narita. Menos ambiente peatonal |
+| **Ueno/Nippori** | ⭐ **Skyliner directo a Narita en 36–41 min**; económico; cerca de templos y museos | Trayectos más largos al suroeste (Shibuya/Shinjuku) |
 
 ### Referencias visuales — Tokio
 
@@ -52,6 +54,28 @@
 - Umeda: <https://www.google.com/maps?q=Umeda+Osaka>
 - Shin‑Osaka: <https://www.google.com/maps?q=Shin-Osaka+Station>
 
+### ⭐ Acceso a Narita — clave para este viaje
+
+Con llegada y salida por **NRT**, la zona del hotel de Tokio importa más de lo normal:
+
+| Zona del hotel | Acceso a Narita | Veredicto |
+|---|---|---|
+| **Ueno / Nippori** | Keisei Skyliner directo, 36–41 min, ¥2,580 | ✅ El mejor. Además es de las zonas más económicas |
+| **Tokyo Station / Marunouchi** | Narita Express, ~60 min | ✅ Buena, y perfecta para los Shinkansen a Kioto |
+| **Asakusa / Nihombashi** | Keisei Access Express directo, ~65 min, ¥1,280 | ✅ Buena y barata |
+| Shinjuku / Shibuya | N'EX ~80 min, o transbordo a Skyliner | ⚠️ Aceptable, pero se pierde tiempo con 4 maletas |
+| Shinagawa | N'EX, ~70 min | ⚠️ Su fuerte es Haneda, no Narita |
+
+👉 **Recomendación**: para el hotel de los **Días 13–15** (regreso a Tokio, con el vuelo del 26 de por medio), priorizar **Ueno/Nippori o Tokyo Station**. Para los Días 1–5 también ayuda, ya que se llega con las maletas desde el aeropuerto.
+
+### ⚠️ Espacio para 4 maletas
+
+Los business hotels japoneses tienen habitaciones muy compactas (12–15 m²). **Cuatro maletas grandes abiertas no caben.** Al reservar:
+
+- Verificar los **metros cuadrados** de la habitación, no solo el precio.
+- Confirmar que haya **guardaequipaje** (casi todos lo tienen) para el 26 dic, por si se libera la habitación a las 10:00 y el vuelo sale a las 16:50.
+- Preguntar si la recepción gestiona **ta‑q‑bin** — la mayoría sí, y resuelve el traslado entre ciudades. Ver [[Transporte]].
+
 ## Estrategia de reserva y presupuesto (Temporada Alta)
 
 - **Presupuesto ajustado**: ~2,700 MXN/noche (vs ~2,140 en temporada media).
@@ -81,6 +105,11 @@
 - [ ] Verificar políticas de pago/cancelación y horarios de check‑in/out
 - [ ] Ryokan con onsen reservado (Hakone o Kioto recomendado)
 - [ ] Verificar calefacción disponible en alojamientos
+- [ ] **Hotel de Tokio con buen acceso a Narita** (Ueno/Nippori o Tokyo Station), sobre todo el de los Días 13–15
+- [ ] **Espacio para 4 maletas**: revisar m² de la habitación
+- [ ] Confirmar **guardaequipaje** disponible el 26 dic tras el check‑out
+- [ ] Confirmar que la recepción gestione **ta‑q‑bin**
+- [ ] Check‑in del Día 1: el vuelo aterriza 11:40 y se llega al hotel ~14:00–15:00 — verificar la hora de check‑in o pedir guardar maletas
 
 ## Referencias
 

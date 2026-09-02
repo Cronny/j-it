@@ -1,6 +1,7 @@
 # Museos Relevantes en Japón
 
 > Resumen rápido: selección de museos recomendados para un viaje con base en Tokio y Kansai, agrupados por tipo para facilitar planeación de rutas y compra de boletos.
+> 👉 **Esta nota es el catálogo de opciones.** Los 5 que ya quedaron elegidos, con su día en el itinerario y sus ventanas de reserva, viven en [[Museos]].
 
 ## Cómo usar esta nota
 
@@ -12,8 +13,8 @@
 
 | Museo                          | Ciudad                 | Por qué vale la pena                                                       | Tiempo sugerido | Reserva                                              | SI  |
 | ------------------------------ | ---------------------- | -------------------------------------------------------------------------- | --------------- | ---------------------------------------------------- | --- |
-| teamLab Borderless             | Tokio (Azabudai Hills) | Arte digital inmersivo, instalaciones interactivas y ambiente visual único | 2.5 a 3.5 h     | Recomendable comprar en línea con anticipación       | x   |
-| teamLab Planets                | Tokio (Toyosu)         | Recorrido sensorial con agua y espacios inmersivos                         | 1.5 a 2.5 h     | Recomendable reservar horario                        |     |
+| teamLab Borderless             | Tokio (Azabudai Hills) | Arte digital inmersivo, instalaciones interactivas y ambiente visual único | 2.5 a 3.5 h     | Recomendable comprar en línea con anticipación       |     |
+| teamLab Planets                | Tokio (Toyosu)         | Recorrido sensorial con agua y espacios inmersivos                         | 1.5 a 2.5 h     | Recomendable reservar horario                        | x   |
 | 21_21 DESIGN SIGHT             | Tokio (Roppongi)       | Exposiciones de diseño contemporáneo en un edificio de Tadao Ando          | 1 a 1.5 h       | Revisar exposición vigente                           |     |
 | The National Art Center, Tokyo | Tokio (Roppongi)       | Gran sede de exposiciones temporales y arquitectura icónica                | 1.5 a 2.5 h     | Normalmente compra en sitio o en línea según muestra |     |
 
@@ -38,7 +39,7 @@
 
 ## Sugerencia de priorización (15 días)
 
-- Tokio: teamLab Borderless, Miraikan, Tokyo National Museum.
+- Tokio: teamLab Planets, Miraikan, Tokyo National Museum.
 - Kioto/Osaka: Kyoto National Museum o Kyoto Railway Museum (según interés).
 - Extra opcional: Railway Museum (Saitama) o Ohara Museum of Art (si se visita Okayama/Kurashiki).
 
@@ -51,6 +52,7 @@
 
 ## Enlaces internos
 
+- [[Museos]] — los 5 elegidos, con día y calendario de reservas
 - [[Actividades y Boletos]]
 - [[Itinerario]]
 - [[Ciudades y Rutas]]

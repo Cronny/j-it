@@ -2,12 +2,34 @@
 
 > **Temporada: Invierno (12–26 diciembre 2026)**. Viajeros: 2 personas. Optimizar para tren y espacios reducidos.
 > Clima esperado: 0–10 °C, posible nieve. Días cortos (anochece ~17:00).
+> ✈️ **Vuelos ANA con equipaje documentado incluido** — franquicia completa y reglas en [[Vuelos ANA]].
 
 ## Estrategia general
 
-- 1 maleta de mano + 1 mochila por persona.
+**Franquicia disponible (ANA Economy, 2 pasajeros):**
+
+| Tipo | Por pasajero | Total | Límite |
+|---|---|---|---|
+| Documentado | **2 piezas** | **4 piezas** | 23 kg y 158 cm lineales c/u |
+| Cabina | 1 maleta + 1 personal | 4 piezas | **10 kg combinados** por pasajero |
+
+- **Ir con las maletas a medio llenar.** La franquicia está pagada en ambos sentidos: el espacio libre en la ida es espacio gratis para compras en el regreso. Japón se presta muchísimo a comprar.
+- **Sugerencia concreta:** llevar 2–3 maletas llenas en la ida (no las 4) y reservar el resto de la franquicia para el regreso. Una maleta plegable de reserva pesa poco y resuelve el problema.
 - Usar organizadores (packing cubes) para ropa y accesorios.
-- Enviar maleta grande ocasionalmente con servicio de paquetería (ta-q-bin) si se requiere.
+- ⚠️ **4 maletas grandes son incómodas dentro de Japón**: habitaciones compactas, 3 tramos de Shinkansen y racks llenos en temporada navideña. **Presupuestar ta‑q‑bin** (~¥2,000–2,500 por maleta) para mover el equipaje entre Tokio, Kioto y Osaka, viajando con solo una mochila. Ver [[Transporte]].
+
+### Reparto por pieza
+
+| Va en **cabina** (siempre) | Va en **documentado** |
+|---|---|
+| Pasaporte, boletos, seguro, tarjetas | Ropa (salvo una muda) |
+| **Power bank y baterías de litio** — prohibidas en bodega | Zapatos extra |
+| Medicamentos personales (empaque original) | Artículos de higiene tamaño normal |
+| Electrónicos: laptop, cámara, cargadores | Souvenirs y compras (ojo con el tax‑free, ver abajo) |
+| Una muda de ropa y kit mínimo de higiene | Paraguas, kit de lavandería |
+| Objetos de valor | Líquidos de más de 100 ml |
+
+> 🚨 **Ojo con el tax‑free en el regreso**: desde nov 2026 aduanas puede pedir ver las compras exentas de impuesto **antes** de documentar. No las entierres en una maleta que ya vas a cerrar. Ver [[Vuelos ANA]].
 
 ## Documentos y esenciales
 
@@ -106,6 +128,17 @@ Japón en invierno tiene un contraste marcado: afuera hace frío (0–10 °C), p
 - [ ] **Empacar capas térmicas** (o planear compra en Uniqlo al llegar).
 - [ ] **Guantes táctiles y bufanda** listos.
 - [ ] **Calzado impermeable** verificado.
+
+### Equipaje (específico del vuelo ANA) 🧳
+
+- [ ] **Pesar cada maleta documentada**: máximo **23 kg** (báscula de mano digital, ~MXN 200)
+- [ ] **Medir cada maleta**: alto + ancho + largo (con ruedas y asa) ≤ **158 cm**
+- [ ] ⚠️ Si alguna pasa de **160 cm**, reservar asiento con área de equipaje sobredimensionado en el Shinkansen (gratis, pero obligatorio)
+- [ ] Pesar el equipaje de mano: **10 kg combinados** por persona (maleta + personal)
+- [ ] **Power banks y baterías sueltas → cabina**, nunca en bodega
+- [ ] Etiquetas con nombre, teléfono y correo, **por fuera y por dentro** de cada maleta
+- [ ] **Foto de cada maleta cerrada y de su contenido** (acelera cualquier reclamación)
+- [ ] Dejar espacio/peso libre para el regreso, o llevar maleta plegable de reserva
 
 ## Apps recomendadas
 

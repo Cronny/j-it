@@ -22,7 +22,7 @@
 | Dato | Detalle |
 |---|---|
 | **Días sugeridos** | 4–6 días (incluidas excursiones cercanas) |
-| **Aeropuerto** | Haneda (HND) preferente / Narita (NRT) alternativa |
+| **Aeropuerto** | ✅ **Narita (NRT) Terminal 1** — confirmado por el boleto ANA (ver [[Vuelos ANA]]) |
 | **Transporte interno** | Metro + JR Yamanote Line; tarjeta IC (Suica/PASMO) |
 | **Ambiente invernal** | Iluminaciones navideñas espectaculares, mercados alemanes |
 
@@ -42,12 +42,14 @@
 
 #### Transporte desde aeropuerto
 
+> Este viaje llega y sale por **Narita**, no por Haneda. Detalles y comparativa completa en [[Transporte]].
+
 | Aeropuerto | Opción | Tiempo | Costo aprox. |
 |---|---|---|---|
-| Haneda (HND) | Monorraíl a Hamamatsuchō | ~15 min | ¥500 |
-| Haneda (HND) | Keikyu Line a Shinagawa | ~15 min | ¥300 |
-| Narita (NRT) | Narita Express (N'EX) a Tokyo Station | ~60 min | ¥3,250 |
-| Narita (NRT) | Keisei Skyliner a Ueno | ~45 min | ¥2,520 |
+| **Narita (NRT)** ⭐ | **Keisei Skyliner** a Nippori/Ueno | 36–41 min | ¥2,580 |
+| **Narita (NRT)** | Narita Express (N'EX) a Tokyo Station | ~60 min | ~¥3,070 |
+| **Narita (NRT)** | Keisei Access Express a Asakusa | 63–69 min | ¥1,280 |
+| Haneda (HND) *(no aplica)* | Monorraíl a Hamamatsuchō | ~15 min | ¥500 |
 
 ---
 
