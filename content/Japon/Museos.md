@@ -13,13 +13,13 @@
 
 ## Tabla maestra
 
-| Museo | Día | Ubicación | Cierra | Duración | Precio aprox. | Cómo se consigue |
-|---|---|---|---|---|---|---|
-| Nintendo Museum | 9 (dom 20 dic) | Ogura, Uji (JR Nara Line / Kintetsu) | **Martes**, y 30 dic–3 ene | 2–3 h | ¥3,300 adulto | **Sorteo**, 3 meses antes |
-| Ghibli Museum | 3 (lun 14 dic) | Mitaka (Chuo Line) | **Martes** + receso de invierno fin de dic | ~2 h | ¥1,000 adulto | Lawson Ticket, día 10 del mes previo |
-| teamLab Planets | 4 (mar 15 dic) | Toyosu (Shin‑Toyosu, Yurikamome) | Días sueltos al mes | 1.5–2.5 h | ~¥3,800 | Web oficial, franja horaria |
-| Museo Nacional de Tokio | 2 (dom 13 dic) | Parque Ueno | **Lunes** + cierre de fin de año | 2.5–4 h | ~¥1,000 permanente | Taquilla |
-| Museo Memorial de la Paz | 12 (mié 23 dic) | Hiroshima (tranvía a Genbaku‑Dome‑mae) | 30 dic–1 ene | 1.5–2 h | ~¥200 | Taquilla |
+| Museo                    | Día             | Ubicación                              | Cierra                                     | Duración  | Precio aprox.      | Cómo se consigue                     |
+| ------------------------ | --------------- | -------------------------------------- | ------------------------------------------ | --------- | ------------------ | ------------------------------------ |
+| Nintendo Museum          | 9 (dom 20 dic)  | Ogura, Uji (JR Nara Line / Kintetsu)   | **Martes**, y 30 dic–3 ene                 | 2–3 h     | ¥3,300 adulto      | **Sorteo**, 3 meses antes            |
+| Ghibli Museum            | 3 (lun 14 dic)  | Mitaka (Chuo Line)                     | **Martes** + receso de invierno fin de dic | ~2 h      | ¥1,000 adulto      | Lawson Ticket, día 10 del mes previo |
+| teamLab Planets          | 4 (mar 15 dic)  | Toyosu (Shin‑Toyosu, Yurikamome)       | Días sueltos al mes                        | 1.5–2.5 h | ~¥3,800            | Web oficial, franja horaria          |
+| Museo Nacional de Tokio  | 2 (dom 13 dic)  | Parque Ueno                            | **Lunes** + cierre de fin de año           | 2.5–4 h   | ~¥1,000 permanente | Taquilla                             |
+| Museo Memorial de la Paz | 12 (mié 23 dic) | Hiroshima (tranvía a Genbaku‑Dome‑mae) | 30 dic–1 ene                               | 1.5–2 h   | ~¥200              | Taquilla                             |
 
 > Precios y horarios: verificar en los sitios oficiales antes de reservar. Los de arriba son la referencia con la que se armó el [[Presupuesto]].
 

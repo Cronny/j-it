@@ -25,6 +25,11 @@
 - Base 2: Kioto (Días 6–9)
 - Base 3: Osaka (Días 10–12)
 - Regreso a Tokio (Días 13–15)
+### Noches
+- Tokio: 5
+- Kioto: 4
+- Osaka: 3
+- Tokio: 2
 
 ![[Pasted image 20260419184806.png]]
 
@@ -32,13 +37,13 @@
 
 > Detalle completo, precios y links en [[Museos]].
 
-| Museo                              | Día asignado            | Por qué ahí                                                                                   | Ventana de reserva                                                                                 |
-| ---------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Nintendo** (Uji)                 | **Día 9** — dom 20 dic  | Está en la JR Nara Line, junto a Fushimi Inari y Byōdō‑in                                     | 🚨 **Sorteo con 3 meses de anticipación → registrarse en SEPTIEMBRE 2026**, resultados el 1 de oct |
-| **Ghibli** (Mitaka)                | **Día 3** — lun 14 dic  | Cierra martes y entra en receso de invierno a fin de mes; el lunes es la única ventana limpia | **10 nov 2026, 10:00 JST** en Lawson — se agota en minutos                                         |
+| Museo                              | Día asignado            | Por qué ahí                                                                                               | Ventana de reserva                                                                                 |
+| ---------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Nintendo** (Uji)                 | **Día 9** — dom 20 dic  | Está en la JR Nara Line, junto a Fushimi Inari y Byōdō‑in                                                 | 🚨 **Sorteo con 3 meses de anticipación → registrarse en SEPTIEMBRE 2026**, resultados el 1 de oct |
+| **Ghibli** (Mitaka)                | **Día 3** — lun 14 dic  | Cierra martes y entra en receso de invierno a fin de mes; el lunes es la única ventana limpia             | **10 nov 2026, 10:00 JST** en Lawson — se agota en minutos                                         |
 | **teamLab Planets** (Toyosu)       | **Día 4** — mar 15 dic  | Yurakucho Line directa desde Ginza; dura solo 1.5–2.5 h, así que el día de Ginza/Marunouchi cabe completo | 3–4 semanas antes; los horarios de tarde vuelan                                                    |
-| **Nacional de Tokio** (Ueno)       | **Día 2** — dom 13 dic  | Ya estaba ahí y es correcto: **cierra lunes** y el Día 3 es lunes                             | Sin reserva; entrada en taquilla                                                                   |
-| **Memorial de la Paz** (Hiroshima) | **Día 12** — mié 23 dic | Único hueco de día completo; excursión desde Osaka                                            | Sin reserva (¥200). Lo que sí conviene reservar es el Shinkansen                                   |
+| **Nacional de Tokio** (Ueno)       | **Día 2** — dom 13 dic  | Ya estaba ahí y es correcto: **cierra lunes** y el Día 3 es lunes                                         | Sin reserva; entrada en taquilla                                                                   |
+| **Memorial de la Paz** (Hiroshima) | **Día 12** — mié 23 dic | Único hueco de día completo; excursión desde Osaka                                                        | Sin reserva (¥200). Lo que sí conviene reservar es el Shinkansen                                   |
 
 ⚠️ **Nintendo es lo urgente.** Es el único con sorteo y la ventana se abre y cierra **este mes**. Los demás se resuelven en noviembre o en el momento.
 
@@ -94,7 +99,7 @@
 ![[Pasted image 20260419200053.png]]
 ### Día 4 — Martes 15 dic · Akihabara + Ginza/Marunouchi + teamLab Planets
 **Verificado:** 
-- [ ] 
+- [ ]  **PENDIENTE** Revisar horarios de teamlab (cambiar a mañana)
 - **Mañana**: Akihabara (electrónica, arcades, cafés temáticos).
 - 12:00 — **Palacio Imperial**, jardines Higashi‑Gyoen. **Cierran lunes y viernes**; el martes está bien. ~9:00–16:00 en horario de invierno (confirmar).
 - 14:00 — **Ginza** (Uniqlo, Ginza Six) y Marunouchi.
@@ -108,8 +113,7 @@
 ### Día 5 — Miércoles 16 dic · Excursión desde Tokio (elige 1)
 **Verificado:** 
 - [x] 
-- Nikkō (templos y naturaleza invernal), o 
-- **Hakone** (recomendado en invierno: vistas al Fuji nevado).
+- [Nikkō]() (templos y naturaleza invernal)
 > 🏔️ **Tip invierno**: El Monte Fuji suele verse más claro en días despejados de diciembre.
 #### Nota
 - Elegir
@@ -127,9 +131,10 @@
 - [x] 
 - Kiyomizudera, Sannenzaka/Ninenzaka.
 - ✨ **Iluminación especial**: Kiyomizudera y Kodai‑ji a veces tienen eventos nocturnos en diciembre.
+![[Pasted image 20260906152209.png]]
 ### Día 8 — Sábado 19 dic · Arashiyama + Norte
 **Verificado:** 
-- [ ] 
+- [ ] **Pendiente:** Revisar Kinkaku ji esta muy lejos
 - Bosque de bambú temprano (menos turistas en invierno).
 - Tenryū‑ji y puente Togetsukyō.
 - Kinkaku‑ji (Pabellón Dorado) por la tarde.
