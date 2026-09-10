@@ -1,4 +1,4 @@
-# Ciudades y Rutas — Japón (Invierno 2026 ❄️)
+# Ciudades y Rutas — Japón (Invierno 2026️)
 
 > Guía de ciudades disponibles con atracciones principales, transporte y tiempo sugerido.
 > Al final encontrarás **3 propuestas de ruta** para 15 días.
@@ -8,10 +8,9 @@
 
 ## Resumen ejecutivo
 
-- **Ciudades base**: Tokio, Kioto, Osaka — las tres imprescindibles.
+- **Ciudades base**: Tokio, Kioto, Osaka 
 - **Excursiones de un día**: Hakone, Nikkō, Kamakura, Nara, Uji, Kobe, Himeji.
 - **Excursión con pernocta**: Hiroshima + Miyajima (requiere al menos 1 noche extra).
-- El orden y la combinación de excursiones define el carácter del viaje.
 
 ---
 
@@ -19,37 +18,37 @@
 
 ### 1. Tokio
 
-| Dato | Detalle |
-|---|---|
-| **Días sugeridos** | 4–6 días (incluidas excursiones cercanas) |
-| **Aeropuerto** | ✅ **Narita (NRT) Terminal 1** — confirmado por el boleto ANA (ver [[Vuelos ANA]]) |
-| **Transporte interno** | Metro + JR Yamanote Line; tarjeta IC (Suica/PASMO) |
-| **Ambiente invernal** | Iluminaciones navideñas espectaculares, mercados alemanes |
+| Dato                   | Detalle                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------- |
+| **Días sugeridos**     | 4–6 días (incluidas excursiones cercanas)                                       |
+| **Aeropuerto**         | **Narita (NRT) Terminal 1** — confirmado por el boleto ANA (ver [[Vuelos ANA]]) |
+| **Transporte interno** | Metro + JR Yamanote Line; tarjeta IC (Suica/PASMO)                              |
+| **Ambiente invernal**  | Iluminaciones navideñas espectaculares, mercados alemanes                       |
 
 #### Principales atracciones
 
-| Zona | Qué ver / hacer | Tip invierno |
-|---|---|---|
-| Asakusa | Sensō-ji, Nakamise-dori | Ambiente navideño en la calle comercial |
-| Ueno | Parque Ueno, museos, Ameya-Yokochō | Menos turistas que en primavera |
-| Shibuya | Cruce de Shibuya, Hachikō, Shibuya Sky | Vistas nocturnas impresionantes con aire despejado |
-| Shinjuku | Gobierno Metropolitano (mirador gratis), Kabukichō | Iluminación Shinjuku Terrace City |
-| Harajuku/Omotesando | Santuario Meiji, Takeshita-dori | Blue Cave (túnel de luces azules) |
-| Akihabara | Electrónica, arcades, cafés temáticos | — |
-| Ginza/Marunouchi | Compras premium, Tokyo Station | Iluminación Marunouchi Naka-dori (imperdible) |
-| Odaiba | teamLab, vistas de la bahía | Christmas Wonderland |
-| Roppongi | Mori Art Museum, Roppongi Hills | Mercado navideño alemán |
+| Zona                | Qué ver / hacer                                    | Tip invierno                                       |
+| ------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| Asakusa             | Sensō-ji, Nakamise-dori                            | Ambiente navideño en la calle comercial            |
+| Ueno                | Parque Ueno, museos, Ameya-Yokochō                 | Menos turistas que en primavera                    |
+| Shibuya             | Cruce de Shibuya, Hachikō, Shibuya Sky             | Vistas nocturnas impresionantes con aire despejado |
+| Shinjuku            | Gobierno Metropolitano (mirador gratis), Kabukichō | Iluminación Shinjuku Terrace City                  |
+| Harajuku/Omotesando | Santuario Meiji, Takeshita-dori                    | Blue Cave (túnel de luces azules)                  |
+| Akihabara           | Electrónica, arcades, cafés temáticos              | —                                                  |
+| Ginza/Marunouchi    | Compras premium, Tokyo Station                     | Iluminación Marunouchi Naka-dori (imperdible)      |
+| Odaiba              | teamLab, vistas de la bahía                        | Christmas Wonderland                               |
+| Roppongi            | Mori Art Museum, Roppongi Hills                    | Mercado navideño alemán                            |
 
 #### Transporte desde aeropuerto
 
-> Este viaje llega y sale por **Narita**, no por Haneda. Detalles y comparativa completa en [[Transporte]].
 
-| Aeropuerto | Opción | Tiempo | Costo aprox. |
-|---|---|---|---|
-| **Narita (NRT)** ⭐ | **Keisei Skyliner** a Nippori/Ueno | 36–41 min | ¥2,580 |
-| **Narita (NRT)** | Narita Express (N'EX) a Tokyo Station | ~60 min | ~¥3,070 |
-| **Narita (NRT)** | Keisei Access Express a Asakusa | 63–69 min | ¥1,280 |
-| Haneda (HND) *(no aplica)* | Monorraíl a Hamamatsuchō | ~15 min | ¥500 |
+| Aeropuerto                 | Opción                                | Tiempo    | Costo aprox. |
+| -------------------------- | ------------------------------------- | --------- | ------------ |
+| **Narita (NRT)**           | **Keisei Skyliner** a Nippori/Ueno    | 36–41 min | ¥2,580       |
+| **Narita (NRT)**           | Narita Express (N'EX) a Tokyo Station | ~60 min   | ~¥3,070      |
+| **Narita (NRT)**           | Keisei Access Express a Asakusa       | 63–69 min | ¥1,280       |
+| Haneda (HND) *(no aplica)* | Monorraíl a Hamamatsuchō              | ~15 min   | ¥500         |
+|                            |                                       |           |              |
 
 ---
 
@@ -64,14 +63,14 @@
 
 #### Principales atracciones
 
-| Zona | Qué ver / hacer | Tip invierno |
-|---|---|---|
-| Higashiyama | Kiyomizudera, Sannenzaka, Ninenzaka, Kodai-ji | Iluminación nocturna especial en diciembre |
-| Gion | Barrio geisha, Yasaka-jinja, Pontocho | Paseo nocturno con faroles |
-| Arashiyama | Bosque de bambú, Tenryū-ji, puente Togetsukyō | Hanatoro: bambú iluminado en diciembre |
-| Norte | Kinkaku-ji (Pabellón Dorado), Ryōan-ji | ❄️ Kinkaku-ji con nieve = postal icónica |
-| Sur | Fushimi Inari Taisha (gratis, 24 h) | Llega temprano o al atardecer para menos gente |
-| Centro | Nishiki Market, Kawaramachi | Compras y street food |
+| Zona        | Qué ver / hacer                               | Tip invierno                                   |
+| ----------- | --------------------------------------------- | ---------------------------------------------- |
+| Higashiyama | Kiyomizudera, Sannenzaka, Ninenzaka, Kodai-ji | Iluminación nocturna especial en diciembre     |
+| Gion        | Barrio geisha, Yasaka-jinja, Pontocho         | Paseo nocturno con faroles                     |
+| Arashiyama  | Bosque de bambú, Tenryū-ji, puente Togetsukyō | Hanatoro: bambú iluminado en diciembre         |
+| Norte       | Kinkaku-ji (Pabellón Dorado), Ryōan-ji        | Kinkaku-ji con nieve = postal icónica          |
+| Sur         | Fushimi Inari Taisha (gratis, 24 h)           | Llega temprano o al atardecer para menos gente |
+| Centro      | Nishiki Market, Kawaramachi                   | Compras y street food                          |
 
 #### Transporte clave
 
@@ -95,14 +94,14 @@
 
 #### Principales atracciones
 
-| Zona | Qué ver / hacer | Tip invierno |
-|---|---|---|
-| Dotonbori/Namba | Comida callejera (takoyaki, okonomiyaki), letreros icónicos | Iluminación Midosuji + Namba Parks |
-| Shinsekai | Kushikatsu, Torre Tsūtenkaku | Zona con carácter local |
-| Umeda/Kita | Umeda Sky Building (mirador), HEP Five | Decoraciones navideñas espectaculares |
-| Castillo de Osaka | Castillo + parque, museo | Ambiente tranquilo invernal |
-| Tennōji | Mercado Kuromon, Shitennō-ji | Mercado ideal para desayuno/brunch |
-| USJ | Universal Studios Japan | 🎄 Evento navideño, árbol gigante, desfile |
+| Zona              | Qué ver / hacer                                             | Tip invierno                            |
+| ----------------- | ----------------------------------------------------------- | --------------------------------------- |
+| Dotonbori/Namba   | Comida callejera (takoyaki, okonomiyaki), letreros icónicos | Iluminación Midosuji + Namba Parks      |
+| Shinsekai         | Kushikatsu, Torre Tsūtenkaku                                | Zona con carácter local                 |
+| Umeda/Kita        | Umeda Sky Building (mirador), HEP Five                      | Decoraciones navideñas espectaculares   |
+| Castillo de Osaka | Castillo + parque, museo                                    | Ambiente tranquilo invernal             |
+| Tennōji           | Mercado Kuromon, Shitennō-ji                                | Mercado ideal para desayuno/brunch      |
+| USJ               | Universal Studios Japan                                     | Evento navideño, árbol gigante, desfile |
 
 #### Transporte clave
 
@@ -120,12 +119,12 @@
 
 ### 4. Hakone (desde Tokio) ♨️
 
-| Dato | Detalle |
-|---|---|
-| **Tiempo necesario** | 1 día completo |
-| **Cómo llegar** | Romancecar desde Shinjuku (~85 min, ¥2,330) o JR + bus |
-| **Destacado** | Onsen, vistas del Monte Fuji nevado, Museo al Aire Libre, lago Ashi |
-| **Tip invierno** | Ideal para onsen con aire frío; Fuji se ve más claro en días despejados de diciembre |
+| Dato                 | Detalle                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| **Tiempo necesario** | 1 día completo                                                                       |
+| **Cómo llegar**      | Shinjuku (~85 min, ¥2,330) o JR + bus                                                |
+| **Destacado**        | Onsen, vistas del Monte Fuji nevado, Museo al Aire Libre, lago Ashi                  |
+| **Tip invierno**     | Ideal para onsen con aire frío; Fuji se ve más claro en días despejados de diciembre |
 
 **Atracciones principales:**
 - Owakudani (valle volcánico, huevos negros)

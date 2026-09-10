@@ -16,7 +16,7 @@
 - **Ir con las maletas a medio llenar.** La franquicia está pagada en ambos sentidos: el espacio libre en la ida es espacio gratis para compras en el regreso. Japón se presta muchísimo a comprar.
 - **Sugerencia concreta:** llevar 2–3 maletas llenas en la ida (no las 4) y reservar el resto de la franquicia para el regreso. Una maleta plegable de reserva pesa poco y resuelve el problema.
 - Usar organizadores (packing cubes) para ropa y accesorios.
-- ⚠️ **4 maletas grandes son incómodas dentro de Japón**: habitaciones compactas, 3 tramos de Shinkansen y racks llenos en temporada navideña. **Presupuestar ta‑q‑bin** (~¥2,000–2,500 por maleta) para mover el equipaje entre Tokio, Kioto y Osaka, viajando con solo una mochila. Ver [[Transporte]].
+- ✅ **Plan de equipaje: salir con 1 maleta, volver con 2.** La segunda se compra en Japón para las compras. Empacar para 15 días en una sola maleta obliga a lavar en el camino — la mayoría de los business hotels tienen lavadoras de monedas. Ver [[Tiendas a revisar]] y [[Vuelos ANA]].
 
 ### Reparto por pieza
 

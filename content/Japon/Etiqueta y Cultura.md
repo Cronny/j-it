@@ -8,7 +8,7 @@
 - No comer en trenes locales; en Shinkansen sí (bento), mantén limpio.
 - No se deja propina. Di "ありがとうございます" (arigatō gozaimasu).
 - En templos: respeta, no bloquees, fotos sólo donde se permita.
-- Onsen: dúchate antes de entrar; sin traje; toalla fuera del agua; cubrir tatuajes si es necesario.
+- Onsen: dúchate antes de entrar; sin traje; toalla fuera del agua. ⚠️ **Tatuajes: ver abajo** — en nuestro caso los parches no son opción.
 - Basura: separación estricta; pocos botes. Lleva tu bolsa para residuos.
 
 ## Trenes y transporte
@@ -35,13 +35,21 @@
 - Lava cuerpo y cabello antes de entrar.
 - Pelo recogido; nada de trajes de baño.
 - Toalla pequeña no entra al agua.
-- Tatuajes: busca onsen friendly o cubre con parches.
+- **Tatuajes — nuestro caso concreto**: los dos tenemos tatuajes **grandes, que no se cubren con parches** (los stickers son de ~10×14 cm, para tatuajes chicos). En la práctica:
+  - ❌ El baño público queda descartado por defecto en casi todo Japón, hoteles con onsen incluidos.
+  - ✅ Lo que funciona: ***kashikiri*** (baño privado reservable por horas), **tina en el cuarto**, o sitios declaradamente tattoo‑friendly.
+  - ⭐ Nuestra apuesta: **Kurama Onsen** en Kioto. Candidatos y advertencias en [[Hoteles]].
+  - ⚠️ Las políticas cambian sin aviso y la señalización es mala: confirmar antes de ir, siempre.
 
 ## Frases útiles (más allá de lo básico)
 
 | Español | Japonés | Rōmaji |
 |---|---|---|
 | Hola / Buenas | こんにちは | konnichiwa |
+| Quisiéramos una habitación tranquila en piso alto | 高層階の静かなお部屋を希望します | kōsōkai no shizuka na o‑heya wo kibō shimasu |
+| Que no dé a la avenida principal | 大通りに面していないお部屋 | ōdōri ni menshite inai o‑heya |
+| Habitación del lado del patio interior | 中庭側のお部屋 | nakaniwa‑gawa no o‑heya |
+| Habitación twin (dos camas) | ツインルーム | tsuin rūmu |
 | Mucho gusto | はじめまして | hajimemashite |
 | Gracias (formal) | ありがとうございます | arigatō gozaimasu |
 | Disculpe (llamar atención) | すみません | sumimasen |

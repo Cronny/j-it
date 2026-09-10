@@ -10,17 +10,20 @@
 | Categoría              | Monto (MXN) | Notas                                                                 |
 | ---------------------- | ----------: | --------------------------------------------------------------------- |
 | Vuelos RT (2 pax)      |  **80,880** | ✅ **Comprado** — ANA NH179/NH180 directo, tarifa Value Plus (clase K) |
-| Hospedaje (14 noches)  |      38,000 | ~2,700 por noche total (temporada alta navideña)                      |
+| Hospedaje (14 noches)  |  **29,918** | ✅ **Reservado, cifra real** — 8,082 bajo lo presupuestado. Ver [[Hoteles]] |
 | Transporte interciudad |       6,500 | Shinkansen Tokio↔Kioto/Osaka (boletos sueltos)                        |
 | Transporte local       |       3,500 | IC card y pases de metro/bus                                          |
 | Traslados aeropuerto   |       2,500 | Skyliner NRT↔Tokio (2 pax)                                            |
-| Envío de equipaje      |       1,500 | Ta‑q‑bin opcional, 2 tramos × 2 maletas (ver abajo)                   |
+| Envío de equipaje      |         500 | 🔽 Llegan con **1 maleta**: el ta‑q‑bin deja de ser necesario. Queda solo como respaldo |
 | Comida                 |      16,000 | ~535 por persona/día promedio                                         |
 | Actividades            |       5,000 | Atracciones + eventos navideños                                       |
 | Conectividad           |       1,000 | eSIM/pocket Wi‑Fi básico                                              |
 | Seguro de viaje        |       1,500 | Plan con cobertura temporada alta                                     |
+| Maleta extra           |   600–1,800 | 🆕 Se compra en Japón (Don Quijote). Ver [[Tiendas a revisar]]         |
 | Misceláneo             |         500 | Calentadores (kairo), emergencias                                     |
 | **Total**              | **156,880** | ⚠️ **+36,880 sobre el objetivo de 120,000**                           |
+
+> 📉 **Actualización sept 2026** *(alojamiento completo, cifras reales)*: con hospedaje **real** de 29,918 (−8,082) y el Shinkansen de Hiroshima sumado (+5,000, solo si eligen la Opción A del Día 12), el total baja a **~153,800**. El sobrecosto pasa de 36,880 a **~33,800** sin tocar ninguna experiencia.
 
 ## Supuestos y criterios
 
@@ -59,12 +62,24 @@ Detalles operativos completos en [[Vuelos ANA]].
 
 ### Hospedaje (14 noches)
 
-- Presupuesto: 38,000 MXN total (~2,700 MXN/noche) — ajustado para temporada alta.
-- Mezcla sugerida: 10–12 noches en business hotels/guesthouses + 1–2 noches en ryokan con onsen (especialmente agradable en invierno).
+Presupuestado: **38,000 MXN** (~2,714/noche). ✅ **Alojamiento completo — las 14 noches reservadas, todas las cifras son reales.** Detalle en [[Hoteles]].
+
+| Bloque | Noches | MXN/noche | Total |
+|---|---:|---:|---:|
+| Tokio 1 (12–17 dic) — Sardonyx Ueno | 5 | **1,660** ✅ reservado | **8,302** |
+| Kioto (17–21 dic) — Mitsui Garden Kyoto Shijo | 4 | **1,376** ✅ reservado | **5,503.71** |
+| Osaka (21–24 dic) — Cross Hotel | 3 | **2,889** ✅ reservado | **8,667.60** |
+| Tokio 2 (24–26 dic) — Mitsui Garden Ueno | 2 | **3,723** ✅ reservado | **7,445** |
+| **REAL** | **14** | | **29,918.39** |
+
+- ✅ **Margen a favor: +8,081.61 MXN** contra los 38,000 presupuestados.
+- ✅ **Hiroshima entra holgado**: el Shinkansen (~5,000) cabe y aún sobran ~3,100.
+- 📊 Promedio real: **2,137 MXN/noche** para los dos, contra los 2,714 presupuestados.
+
 - **Estrategias temporada alta**:
-  - Reservar con cancelación gratuita lo antes posible (septiembre ideal).
-  - Considerar ubicaciones ligeramente más alejadas con buena conexión de metro.
-  - Ryokanes se llenan rápido en diciembre; reservar con 2–3 meses de anticipación.
+  - 🚨 **Los precios se disparan a partir del 23 de diciembre**, y Tokio sube más y antes que Osaka. **Reservar Tokio 24–26 dic primero**, aunque vaya al final del itinerario.
+  - Reservar con cancelación gratuita lo antes posible y re‑buscar cada 2 semanas.
+  - 🛁 **Onsen: sin ryokan, sin costo extra.** Con tatuajes grandes el baño público no es opción (ni siquiera el de Dormy Inn), y un cuarto de ryokan con *rotenburo* privado cuesta ¥25,000–40,000 **por persona** — gama alta para obtener una tina privada. Se resuelve con *kashikiri*, tina en el cuarto y sitios tattoo‑friendly como **Kurama Onsen** en Kioto: **costo marginal**. Ver [[Hoteles]].
 
 ### Transporte interciudad
 
@@ -150,10 +165,9 @@ Ordenadas por impacto. El hospedaje es la única partida con músculo real: **38
 | Palanca | Ahorro estimado | Costo real |
 |---|---:|---|
 | **Bajar hospedaje a ~2,000 MXN/noche** (business hotels en Ueno/Ikebukuro/Shin‑Osaka en vez de zonas premium) | **~9,800** | Menor, si se prioriza cercanía a estación. Además Ueno conviene por el Skyliner |
-| **Sacrificar el ryokan con onsen** o reducirlo a 1 noche | 1,500–3,000 | Se pierde una de las mejores experiencias de invierno. Recortar aquí al final |
 | **Comida: bajar de 535 a ~420 por persona/día** (más konbini y cadenas, cenas selectivas) | ~7,000 | Bajo — comer barato en Japón se come muy bien |
 | **Saltar USJ** (Día 12) y hacer Kobe/Himeji en su lugar | ~3,500 | Kobe Luminarie en diciembre es excelente sustituto |
-| **Ta‑q‑bin solo en 1 tramo** en vez de 2 | ~750 | Cargar 4 maletas en un Shinkansen |
+| **Sin ta‑q‑bin entre bases** (ya aplicado: llegan con 1 maleta) | ~1,000 | Ninguno |
 | **Una excursión lejana menos** (Nikkō/Hakone → actividad en ciudad) | 2,000–3,000 | Se pierde el Fuji nevado |
 | **Reducir de 15 a 13 días** *(no aplica: los vuelos ya están comprados)* | — | ❌ Descartado |
 

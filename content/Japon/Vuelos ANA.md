@@ -33,7 +33,7 @@
 | Llegar al AICM T1        | **03:10–03:30** | Recomendado 3 h antes para internacional  |
 | Mostrador ANA abre       | ~03:00–03:30    | Abre 2.5–3 h antes; no sirve llegar antes |
 | **Mostrador ANA cierra** | **05:00**       | 60 min antes de la salida — límite duro   |
-| Documentado de 4 maletas | +20–30 min      | Más lento que lo normal, ver sección 3    |
+| Documentar 1 maleta      | +10–15 min      | Van ligeros a la ida                      |
 | Despegue                 | **06:00**       |                                           |
 
 ### Consideraciones
@@ -56,7 +56,11 @@
 
 ### Estrategia recomendada 💡
 
-- **Comprar una báscula de mano digital** (~MXN 200).
+🔄 **Plan acordado: salen con 1 maleta, vuelven con 2.** La maleta extra se compra en Japón.
+
+- Con 4 piezas de franquicia y solo 2 usadas al volver, **sobran 2 slots**. El cuello de botella **no es el número de maletas sino los 23 kg por pieza**.
+- **Comprar una báscula de mano digital** (~MXN 200) — con este plan pasa de buena idea a necesaria.
+- ⚠️ **Tax‑free**: no documenten la maleta con las compras antes de pasar por aduana en Narita. Detalle en [[Tiendas a revisar]].
 
 ### Restricciones importantes
 
@@ -66,7 +70,7 @@
 - Etiquetar cada maleta por fuera **y por dentro** con nombre, teléfono y correo.
 - Tomar **foto de cada maleta cerrada y de su contenido** antes de documentar: acelera cualquier reclamación.
 
-### ⚠️ 4 maletas grandes dentro de Japón
+### 🧳 Equipaje dentro de Japón — con el plan de 1 maleta
 
 **a) Regla de equipaje sobredimensionado del Shinkansen**
 
@@ -81,13 +85,15 @@ En las líneas **Tokaido / Sanyo / Kyushu** (que son justamente las de Tokio ↔
 
 👉 Las maletas al límite de ANA (**158 cm**) quedan **apenas 2 cm por debajo** del umbral. **Medir cada maleta antes de viajar** (alto + ancho + largo, con ruedas y asa). Si alguna pasa de 160 cm, reservar los asientos correspondientes al comprar el Shinkansen.
 
-**b) Tres tramos de Shinkansen con 4 maletas**
+**b) Tres tramos de Shinkansen**
 
-El [[Itinerario]] contempla Tokio→Kioto (Día 6), Kioto→Osaka (Día 10) y Osaka→Tokio (Día 13). Mover 4 maletas grandes tres veces, en temporada navideña y con racks limitados, es incómodo.
+El [[Itinerario]] contempla Tokio→Kioto (Día 6), Kioto→Osaka (Día 10) y Osaka→Tokio (Día 13). ✅ **Con 1 maleta esto deja de ser un problema**: una maleta y dos mochilas van cómodas aunque los racks estén llenos.
 
-**c) Solución: Ta-Q-Bin (takkyubin) 📦**
+⚠️ El tramo que sí puede complicarse es **Osaka→Tokio (Día 13)**, porque para entonces ya existirá la maleta nueva de compras. Ahí el ta‑q‑bin vuelve a ser útil.
 
-Servicio de paquetería puerta a puerta (Yamato "Kuroneko", Sagawa). Es el estándar en Japón y es excelente.
+**c) Respaldo: Ta-Q-Bin (takkyubin) 📦**
+
+Servicio de paquetería puerta a puerta (Yamato "Kuroneko", Sagawa). Ya no es la estrategia central, pero conviene tenerlo identificado.
 
 | Uso | Costo aprox. | Tiempo |
 |---|---|---|
@@ -101,7 +107,7 @@ Servicio de paquetería puerta a puerta (Yamato "Kuroneko", Sagawa). Es el está
 
 **d) Espacio en la habitación**
 
-Los business hotels japoneses tienen habitaciones muy compactas. **4 maletas grandes abiertas no caben.** Otro argumento para consolidar y usar ta-q-bin. Ver [[Alojamiento]].
+Los business hotels japoneses son muy compactos (11–18 m²). Con 1 maleta el **bloque 1 no tiene problema**, así que ahí puede ganar una opción compacta y barata. Donde sí hace falta espacio es en el **bloque 2 (24–26 dic)**, al reempacar con las compras en dos maletas. Ver [[Hoteles]].
 
 ---
 
@@ -121,11 +127,11 @@ Los business hotels japoneses tienen habitaciones muy compactas. **4 maletas gra
 
 | Hito                        | Hora            | Nota                                                 |
 | --------------------------- | --------------- | ---------------------------------------------------- |
-| Mañana libre                | hasta ~11:30    | Últimas compras cerca del hotel; equipaje ya cerrado |
-| Salir del hotel             | **12:00**       | Con las 4 maletas o tras enviarlas por ta-q-bin      |
-| Skyliner desde Ueno/Nippori | 12:30–13:15     | 36–41 min, ¥2,580 por persona                        |
-| **Llegar a NRT T1**         | **13:30–14:00** | ~3 h antes                                           |
-| Trámite tax-free            | 14:00–14:45     | **Antes de documentar**, ver abajo                   |
+| Mañana                      | 08:00–11:00     | ⚠️ **No es día de compras**: el comercio abre 10:00–11:00 y el check‑out es a las 11:00. Cerrar y pesar maletas |
+| Check‑out y salida          | **11:00**       | Hora de check‑out del hotel del bloque 2 (Mitsui Garden Ueno). Coincide con la hora a la que hay que salir |
+| Skyliner desde Ueno/Nippori | 11:30–12:15     | 36–41 min, ¥2,580 por persona                        |
+| **Llegar a NRT T1**         | **12:30–13:00** | ~4 h antes                                           |
+| Trámite tax-free            | 13:00–13:45     | **Antes de documentar**, con la mercancía accesible  |
 | Mostrador ANA cierra        | **15:50**       | 60 min antes — límite duro                           |
 | Despegue                    | **16:50**       |                                                      |
 

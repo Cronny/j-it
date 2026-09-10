@@ -6,13 +6,41 @@
 
 ## TL;DR — cómo repartir tus tarjetas actuales
 
-| Tarjeta | Rol en el viaje | Por qué |
-|---|---|---|
-| **Revolut (débito)** 🥇 | **Principal**: pagos del día a día y retiros en ATM | Cambia MXN→JPY a tipo interbancario y te deja traer saldo en yenes; es la más barata de las tres para gastar allá |
-| **Nu (crédito)** 🥈 | **Reservas y compras grandes**: hoteles, boletos, Shinkansen, electrónica | Es tu única tarjeta de **crédito**: sirve para garantías de hotel, contracargos y no toca tu dinero al instante. Nu no cobra comisión por compra internacional (confirmar en tu contrato vigente) |
-| **Santander (débito)** 🥉 | **Emergencia**: guardada en el hotel, no en la cartera | Débito bancario tradicional: suele cobrar ~2.5% + IVA por compra en el extranjero y cuota fija por retiro. Úsala solo si las otras dos fallan |
+| Tarjeta                   | Rol en el viaje                                                            | Por qué                                                                                                                                       |
+| ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Revolut (débito)**      | **Principal**: pagos del día a día y retiros en ATM                        | Cambia MXN→JPY a tipo interbancario y te deja traer saldo en yenes; es la más barata de las tres para gastar allá                             |
+| **Nu (crédito)**          | **Reservas y compras grandes**: hoteles, boletos, Shinkansen, electrónica. | Sirve para garantías de hotel, contracargos y no toca tu dinero al instante.                                                                  |
+| **Santander (débito)** 🥉 | **Emergencia**: guardada en el hotel, no en la cartera                     | Débito bancario tradicional: suele cobrar ~2.5% + IVA por compra en el extranjero y cuota fija por retiro. Úsala solo si las otras dos fallan |
 
-> 🎯 **Regla simple**: Revolut para gastar y sacar efectivo, Nu para reservar y para lo caro, Santander de paracaídas.
+## Con qué tarjeta reservar hoteles — física, no virtual
+
+**Usa el número de la tarjeta de crédito Nu FÍSICA. No la virtual.**
+
+Nu es la correcta (0% de comisión internacional, confirmado, y es la única de crédito). Pero **la tarjeta virtual de Nu tiene número, vigencia y CVV distintos a los del plástico** — comparten el mismo cupo y la misma factura, pero son datos diferentes. Eso rompe reservas de hotel:
+
+1. 🔴 **En Japón es común que pidan ver la tarjeta con la que se reservó al hacer check‑in.** Si reservaste con la virtual, el plástico que traes **no coincide** con el número que tiene el hotel.
+2. 🔴 **La virtual se puede borrar y regenerar** — y entre reservar (septiembre) y viajar (diciembre) hay **3.5 meses**. Si esa tarjeta se regenera o Nu la rota, la garantía del hotel muere y la reserva se puede cancelar sola.
+
+👉 **La virtual sirve para**: compras 100% en línea donde nunca hay que presentar plástico y donde te conviene poder quemar el número después (suscripciones, sitios poco confiables). **No para hoteles.**
+
+### ⚠️ La trampa de la moneda en Booking
+
+Booking muestra los precios en **MXN** por defecto. Si dejas que Booking o el hotel conviertan, es **DCC disfrazado** y pierdes 3–5%.
+
+- 👉 **Cambia la moneda de Booking a JPY (¥)** antes de reservar, y elige que te cobren en yenes.
+- Deja que **Mastercard** haga la conversión: es el tipo de cambio del día, sin comisión de Nu.
+- En una reserva de ~7,445 MXN eso son **~250–370 MXN** de diferencia. En las cuatro reservas del viaje, se acumula.
+- 💡 Si la tarifa lo permite, **"pagar en el hotel"** suele ser mejor que "pagar ahora": el cargo se hace en Japón, en yenes, y en diciembre en vez de hoy.
+
+### Antes de dar clic en cualquier reserva
+
+- [ ] **Vigencia del plástico**: la tarjeta física tiene que seguir vigente **en diciembre de 2026**, no solo hoy. Si vence antes o justo entonces, pide la renovación ya — una reserva garantizada con una tarjeta vencida se cae.
+- [ ] **Cupo disponible**: van a cargar cuatro hoteles + Shinkansen + museos + compras a la misma tarjeta. Revisa el límite y considera abonar a mitad de ciclo para no toparte.
+- [ ] Moneda en **JPY**, no MXN.
+- [ ] Activar **uso internacional** y avisar del viaje en la app.
+- [ ] Guardar la confirmación y los **últimos 4 dígitos** de la tarjeta usada.
+
+> 🧾 **Coherencia con el tax‑free**: usa **la misma tarjeta física de Nu** para todas las compras grandes en Japón. El reembolso se pide a esa tarjeta, y mezclarla con la virtual complica el trámite y el seguimiento.
 
 ## Hueco que sí conviene tapar antes de diciembre
 
@@ -42,7 +70,7 @@ Tienes **una sola tarjeta de crédito** y probablemente **una sola red** (Nu es 
 | Tarjeta | Comisión FX típica | Sobrecosto aprox. |
 |---|---|---|
 | Revolut (entre semana, saldo en JPY) | ~0% | ~$0 |
-| Nu crédito (sin comisión internacional) | 0% + spread Mastercard | Bajo |
+| Nu crédito (física) | ✅ 0% + tipo de cambio Mastercard | ~$0 |
 | Santander débito | ~2.5% + IVA ≈ 2.9% | ~$35–40 MXN por cada ¥10,000 |
 | **Cualquiera aceptando DCC (pagar en MXN)** | **4–8%** | **~$60–120 MXN — evitable** |
 
@@ -104,7 +132,11 @@ Desde el **1 de noviembre de 2026** el IVA ya no se descuenta en caja: pagas com
 ## Checklist antes de volar
 
 - [ ] Sacar una **segunda tarjeta de crédito Visa sin comisión internacional** (2–3 meses antes)
-- [ ] Confirmar por escrito la comisión internacional de **Nu** y de **Santander**
+- [x] Comisión internacional de **Nu**: ✅ **0%**, tipo de cambio Mastercard
+- [ ] Confirmar por escrito la comisión internacional de **Santander**
+- [ ] **Verificar la vigencia del plástico de Nu**: debe cubrir diciembre 2026
+- [ ] **Revisar el cupo de Nu**: van cuatro hoteles + Shinkansen + compras a la misma tarjeta
+- [ ] Poner Booking (y demás sitios) **en JPY**, nunca en MXN
 - [ ] Cambiar todos los NIP a **4 dígitos**
 - [ ] Activar uso internacional y **subir límites** de compra/retiro
 - [ ] Agregar todas las tarjetas a **Apple/Google Wallet**
@@ -119,4 +151,7 @@ Desde el **1 de noviembre de 2026** el IVA ya no se descuenta en caja: pagas com
 - Localizador de ATMs 7‑Bank: <https://www.sevenbank.co.jp/intlcard/index2.html>
 - ATMs de Japan Post (Yucho): <https://www.jp-bank.japanpost.jp/en/ias/en_ias_index.html>
 - JNTO — pagos y dinero en Japón: <https://www.japan.travel/en/plan/money/>
+- Nu México — uso en el extranjero (oficial) — <https://blog.nu.com.mx/productos-nu/tarjeta-de-credito/nu-tarjeta-de-credito-internacional/>
+- Nu México — costos y comisiones (PDF oficial) — <https://cdn.nubank.com.br/MX/costos-y-comisiones.pdf>
+- Nu México — cómo funciona la tarjeta virtual — <https://blog.nu.com.mx/productos-nu/tarjeta-de-credito/tarjeta-de-credito-virtual-nu/>
 - Tax‑free Japón (oficial): <https://www.mlit.go.jp/kankocho/tax-free/>

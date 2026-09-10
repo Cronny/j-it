@@ -15,7 +15,7 @@ El vuelo llega y sale de **Narita Terminal 1**. Narita está a ~60 km del centro
 | **Keisei Access Express** | ¥1,280 | 63–69 min | Asakusa, Nihombashi | El más barato con tren. Sin asiento reservado |
 | **Airport Limousine Bus** | ~¥3,600 | 80–120 min | Hoteles principales | Cómodo con maletas, pero sujeto a tráfico |
 
-**Recomendación para este viaje:** **Skyliner**, si el hotel de Tokio queda cerca de Ueno/Nippori. Es lo más rápido, va sentado y con las 4 maletas es lo menos incómodo. Presupuestar **~¥10,300 (≈ MXN 1,250)** para los dos, ida y vuelta.
+**Recomendación para este viaje:** **Skyliner**, si el hotel de Tokio queda cerca de Ueno/Nippori. Es lo más rápido, va sentado y el 26 —con la maleta nueva cargada de compras— es lo menos incómodo. Presupuestar **~¥10,300 (≈ MXN 1,250)** para los dos, ida y vuelta.
 
 - Horario de salidas desde Narita: **07:23 – 23:00**. El vuelo aterriza a las 11:40, sin problema.
 - Se puede comprar en el aeropuerto o en línea con descuento anticipado.
@@ -57,17 +57,53 @@ El itinerario es **Tokio → Kioto → Osaka → Tokio**, con una excursión des
 
 ## 5) Envío de equipaje — Ta‑Q‑Bin 📦
 
-Con **4 maletas documentadas** entre los dos (ver [[Vuelos ANA]]), esto deja de ser un lujo.
+⚠️ **Ya no es estrategia central**: llegan con **1 maleta** (ver [[Vuelos ANA]]). Pero sigue siendo útil en un tramo concreto, y conviene saber cómo funciona.
 
-| Ruta | Costo aprox. por maleta | Tiempo |
-|---|---:|---|
-| Entre hoteles de distintas ciudades | ¥2,000–2,500 | Día siguiente |
-| Narita → hotel en Tokio | ¥2,000–3,000 | Mismo día tarde / día siguiente |
-| Hotel en Tokio → Narita | ¥2,000–3,000 | Pedir con 1–2 días de anticipación |
+### Cómo funciona el ta‑q‑bin (takkyubin)
 
-- Se contrata en la **recepción del hotel** o en cualquier konbini. Yamato ("Kuroneko") es el operador más común.
-- Empaca una mochila con lo de 1–2 días: muda, cargadores, medicinas, documentos.
-- ⚠️ **En diciembre el servicio se satura** por volumen navideño. No envíes nada el 25 esperando tenerlo el 26 para el vuelo.
+Paquetería puerta a puerta. La operan **Yamato ("Kuroneko", el gato negro)** y Sagawa. Es el estándar en Japón: barato, puntual y confiable.
+
+| Dato | Detalle |
+|---|---|
+| **Dónde se contrata** | **Recepción del hotel** — lo más fácil, ellos llenan la guía. También en cualquier konbini |
+| **Costo hotel→hotel** | **¥2,300–2,630** por maleta de tamaño estándar (Tokio↔Kioto↔Osaka) |
+| **Tiempo** | **Al día siguiente** en el corredor Tokio–Osaka. Lo entregado por la tarde llega ~10:00 del día siguiente |
+| **Límite de tamaño** | **160 cm lineales y 25 kg** en tarifa estándar (hasta 200 cm / 30 kg pagando más) |
+| **Anticipación** | Desde el hotel, **el día anterior** basta. Desde konbini, **1–2 días** |
+
+### Qué datos hay que llevar
+
+Para mandar una maleta al siguiente hotel hay que darle a recepción:
+
+1. **Nombre del hotel destino**
+2. **Dirección completa** (idealmente en japonés — pídansela por correo al hotel o cópienla de su web japonesa)
+3. **Teléfono del hotel destino**
+4. **Su nombre tal como está en la reserva**
+5. **Fecha de check‑in** en ese hotel
+
+> 🔴 **El destino tiene que ser un lugar con personal que reciba.** Hotel sí; Airbnb o alojamiento sin recepción, no. Los cuatro hoteles del viaje son hoteles con recepción, así que no hay problema — pero **avisen al hotel destino que va a llegar un paquete a su nombre**.
+
+### Cuándo conviene en *este* viaje
+
+| Tramo | Día | ¿Hace falta? |
+|---|---|---|
+| Tokio → Kioto | 6 (17 dic) | ❌ **No.** 1 maleta y 2 mochilas van cómodas en el Shinkansen |
+| Kioto → Osaka | 10 (21 dic) | ❌ **No.** Tramo corto y siguen con 1 maleta |
+| **Osaka → Tokio** | **13 (24 dic)** | ✅ **Aquí sí conviene.** Para entonces ya existe la **segunda maleta** comprada en Osaka, llena de compras |
+| Tokio → Narita | 15 (26 dic) | ❌ **No, y es importante que no.** Ver abajo |
+
+**El tramo del Día 13** es el único con dos maletas. Opciones:
+
+- **Mandarla el Día 12 (23 dic)** desde la recepción del Cross Hotel al Mitsui Garden Ueno → llega el 24, el mismo día que ustedes. ~¥2,500.
+- **O simplemente llevarla**: dos personas con una maleta cada una en el Shinkansen es perfectamente manejable. El ta‑q‑bin aquí es comodidad, no necesidad.
+
+⚠️ **Si la mandan, verifiquen que ninguna maleta pase de 160 cm lineales.** El límite de ANA es 158 cm, así que deberían estar justo por debajo — pero mídanlas.
+
+### 🔴 Por qué NO mandar nada a Narita
+
+Con el **tax‑free nuevo** (desde nov 2026), aduana tiene que **ver la mercancía** antes de autorizar el reembolso. Si las compras viajan por separado, no hay reembolso. Las maletas con compras tienen que ir **con ustedes** el Día 15. Ver [[Tiendas a revisar]].
+
+Y el aviso de temporada que ya estaba: ⚠️ **en diciembre el ta‑q‑bin se satura** por volumen navideño. No manden nada el 25 esperando tenerlo el 26.
 
 ## 6) Apps y herramientas
 

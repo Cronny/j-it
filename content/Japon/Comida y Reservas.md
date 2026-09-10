@@ -1,4 +1,4 @@
-# Comida y Reservas (Invierno ❄️🎄)
+# Comida y Reservas (Invierno️)
 
 > **Temporada: 12–26 diciembre 2026**
 > Guía para elegir qué comer, dónde reservar y cómo asegurar lugares con alta demanda.
@@ -19,7 +19,7 @@
 | Wagyu | Restaurantes especializados (Kobe, Tokio) | Checar tipo (A5, corte, estilo) |
 | Matcha | Uji y Kioto | Postres y ceremonia del té |
 
-### ❄️ Platillos especiales de invierno
+###  Platillos especiales de invierno
 
 | Platillo | Descripción | Dónde |
 |---|---|---|
@@ -43,7 +43,7 @@
 | teamLab Planets/Toyosu | Semanas | Sitio oficial; horarios nocturnos populares |
 | Universal Studios Japan | Semanas | Express Pass (limitado), boletos en sitio oficial |
 | Tokyo Disney / DisneySea | Semanas | Calendario de tickets oficiales |
-| Ryokan con onsen privado | 1–3 meses | Sitio directo / Booking / Rakuten |
+| Hoteles (los 4 bloques) | Ya — ver [[Hoteles]] | Booking / Agoda / sitio directo |
 | Restaurantes Michelin (sushi/kaiseki) | 1–2 meses | Teléfono, Pocket Concierge, TableAll |
 | Ceremonia de té en Kioto | Semanas | Sitios locales / Airbnb Experiences |
 | tour sumo (temporada) | Meses (según torneo) | Federación / agencias |
@@ -94,7 +94,7 @@ Museo abierto en octubre de 2024 en la antigua planta Uji de Nintendo. Combina m
 - Cena: alternar izakaya con nabe, sushi medio, una experiencia kaiseki (1 noche), okonomiyaki (Osaka), wagyu (una vez), sukiyaki/shabu-shabu.
 - Snacks: onigiri, taiyaki caliente, amazake en templos, melon pan.
 
-### 🎄 Tradiciones navideñas japonesas de comida
+### Tradiciones navideñas japonesas de comida
 
 | Fecha | Tradición | Nota |
 |---|---|---|
@@ -109,7 +109,7 @@ Museo abierto en octubre de 2024 en la antigua planta Uji de Nintendo. Combina m
 1. **Ghibli Museum / Park** (cuando se definan fechas exactas) — vigilar apertura mensual.
 2. **Museo Nintendo (Uji)** — lotería mensual; aplicar en cuanto abra la ventana de diciembre (~sep 2026). Evitar martes.
 3. **teamLab** (slot nocturno preferido) — 2–3 semanas antes.
-4. **Ryokan en Kioto o Hakone** (si aplica una noche especial) — reservar 2–3 meses antes.
+4. ~~Ryokan~~ — **descartado**: el Día 5 es Nikkō de día y no queda noche donde meterlo; además el onsen comunal no es usable con tatuajes grandes. Ver [[Hoteles]].
 5. **Cena Nochebuena (24 dic)** — reservar 2–4 semanas antes; opciones:
    - Restaurante japonés elegante
    - Hotel con cena especial
@@ -122,13 +122,6 @@ Museo abierto en octubre de 2024 en la antigua planta Uji de Nintendo. Combina m
 - Puntualidad estricta; cancelar con anticipación para evitar cargos.
 - Toalla húmeda (oshibori) para manos, no para cara.
 - No dejar propina; agradecimiento verbal basta.
-- En barra de sushi: no usar demasiada salsa; comer piezas individualmente.
-
-## Consideraciones dietéticas
-
-- Muchas salsas contienen dashi (pescado); para dietas vegetarianas, confirmar.
-- Celiaquía: salsa de soya contiene gluten (buscar tamari sin gluten en algunos lugares).
-- Apps de traducción pueden ayudar (Google Translate modo cámara).
 
 ## Checklist (Invierno 2026)
 
